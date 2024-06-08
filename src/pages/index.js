@@ -1,6 +1,6 @@
 import Head from "next/head";
 import styles from "@/styles/Home.module.css";
-import DisplayImage from "@/Components/DisplayImage.js";
+import DisplayImage from "@/components/DisplayImage.js";
 import ColorThief from "colorthief";
 import { useState } from "react";
 
