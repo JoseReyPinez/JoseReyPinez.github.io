@@ -88,10 +88,18 @@ header .input{
 }
 
 @media screen and (max-width: 480px){
-.image{
-  width: 29rem;
+header{
+  width: 200%;
+}
+  .image{
+  width: 26rem;
+  margin-left: 12rem;
 }
 .input label{
   padding: 0.5rem 0.5rem;
+}
+ul {
+  margin-left: 10rem;
+  margin-bottom: 10rem;
 }
 }
